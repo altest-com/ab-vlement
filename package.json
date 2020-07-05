@@ -1,0 +1,23 @@
+{
+    "name": "ab-vlement",
+    "version": "1.0.2",
+    "description": "Vue components based on element-ui",
+    "main": "./src/index.js",
+    "scripts": {
+        "lint": "eslint src"
+    },
+    "files": [
+        "src"
+    ],
+    "dependencies": {
+        "echarts": "^4.8.0",
+        "element-ui": "^2.13.0",
+        "vue": "^2.6.11",
+        "vue-router": "^3.1.5"
+    },
+    "devDependencies": {
+        "babel-eslint": "10.0.3",
+        "eslint": "6.8.0",
+        "eslint-plugin-vue": "6.1.2"
+    }
+}
